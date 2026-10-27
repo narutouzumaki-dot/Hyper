@@ -1,0 +1,8 @@
+{
+  "name": "LUXION AI",
+  "description": "LUXION AI — Beyond Intelligence. Beyond Limits. Ultimate futuristic AI assistant with voice, file analysis, study mode, coding lab, and cross-device sync.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
